@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Learning**
 
-- 🌱 I’m currently learning **JS Java**
+- 🌱 I’m currently learning **JS Python**
 
 - 📫 How to reach me **2dolist99@gmail.com**
 
